@@ -228,7 +228,6 @@ dist
 .vscode/
 .venv
 venv/
-ENV/
 env.bak/
 venv.bak/
 
