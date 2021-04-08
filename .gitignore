@@ -191,7 +191,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
+
 .env.test
 
 # parcel-bundler cache (https://parceljs.org/)
