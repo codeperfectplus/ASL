@@ -227,7 +227,6 @@ dist
 # VSCode config
 .vscode/
 .venv
-env/
 venv/
 ENV/
 env.bak/
