@@ -1,6 +1,15 @@
-# American_sign_Language_detection
+<p align="center">
+  <a href="https://github.com/codePerfectPlus/ASL"><img src="https://capsule-render.vercel.app/api?type=rect&color=009ACD&height=100&section=header&text=ASL Android APPlication&fontSize=60%&fontColor=ffffff" alt="website title image"></a>
+  <h2 align="center">👉 American Sign Language Detection Model with SSD_Mobilenet trained on Google Colab 👈</h2>
+</p>
 
-American Sign Language Detection Model with SSD_Mobilenet trained on Google Colab
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3.8.5-lightgrey?style=for-the-badge" alt="repo language">
+<img src="https://img.shields.io/badge/Java-Android-lightgrey?style=for-the-badge" alt="repo language">
+<a href="https://github.com/codePerfectPlus/ASL/stargazers"><img src="https://img.shields.io/github/stars/codePerfectPlus/ASL?style=for-the-badge" alt="github stars"></a>
+<a href="https://github.com/codePerfectPlus/ASL/network/members"><img src="https://img.shields.io/github/forks/codePerfectPlus/ASL?style=for-the-badge" alt="github forks"></a>
+<img src="https://img.shields.io/github/languages/code-size/codePerfectPlus/ASL?style=for-the-badge" alt="code size">
+
 
 Sign_Language_detection_SSD_Mobilenet_Colab_TFLITE.ipynb
 
